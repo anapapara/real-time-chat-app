@@ -37,7 +37,7 @@
 - **Redis** (for WebSocket sessions)
 
 
- ## ** API Endpoints**
+ ## **API Endpoints**
  
 |Method	| Endpoint	             | Description             | 
 |-------|-----------------------|-------------------------|
