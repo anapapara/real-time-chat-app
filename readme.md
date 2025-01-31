@@ -12,7 +12,7 @@
 
 ---
 
-## ** Tech Stack**
+## **Tech Stack**
 ### **Frontend (React)**
 - React + Hooks
 - Axios for API requests
@@ -28,7 +28,7 @@
 
 ---
 
-## ** Installation & Setup**
+## **Installation & Setup**
 
 ### **Prerequisites**
 - **Node.js** (v16+)
@@ -39,13 +39,13 @@
 
  ## ** API Endpoints**
  
-|Method	| Endpoint	            | Description            | 
-| ----------------------------------------------------   |
-|POST	| /api/auth/register	| Register a new user    | 
-|POST	| /api/auth/login	    | Login and get JWT token| 
-|GET	| /api/auth/users	    | Get all users          |  
-|GET	| /api/messages/:userId | Fetch messages by user | 
-|POST	| /api/messages/send    | Send a new message     |   
+|Method	| Endpoint	             | Description             | 
+|-------|-----------------------|-------------------------|
+|POST  	| /api/auth/register	   | Register a new user     | 
+|POST  	| /api/auth/login	      | Login and get JWT token | 
+|GET	   | /api/auth/users	      | Get all users           |  
+|GET	   | /api/messages/:userId | Fetch messages by user  | 
+|POST	  | /api/messages/send    | Send a new message      |   
 
 TO RUN:
 start docker image for rabbitmq
